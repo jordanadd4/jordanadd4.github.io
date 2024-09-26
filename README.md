@@ -5,5 +5,5 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ![podcast pic](DSC07761.JPEG)
 ![FB PIC](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/IMG_4706%202.JPG?raw=true)
 ### Infographic of Lehigh Location Demographic
-![Infographic of Lehigh Location Demographic](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+![Refernce to Statistic of Lehigh Demographics](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
 ![Infographic pic](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/Lehigh%20University%20Admission%20Demographics%20(1).jpg) 
