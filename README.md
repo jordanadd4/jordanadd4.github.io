@@ -8,5 +8,5 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ![Full Lehigh Demographic Statistic Sheet](https://data.lehigh.edu/university-profile#:~:text=Lehigh%20University%20Profile%3A-,Fall%202024,-Fall%202023)
 ![Infographic pic](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/Lehigh%20University%20Admission%20Demographics%20(1).jpg) 
 ### NFL Player Birthplace Dataset
-![Picture 1](TEXAS FLORIDA CALIFORNIA GEORGIA NORTH CAROLINA OHIO ALABAMA.png)
+![Data 1](TEXAS FLORIDA CALIFORNIA GEORGIA NORTH CAROLINA OHIO ALABAMA.png)
 ![Picture 2](2.png)
