@@ -9,3 +9,4 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ![Infographic pic](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/Lehigh%20University%20Admission%20Demographics%20(1).jpg) 
 ### NFL Player Birthplace Dataset
 ![Picture 1](1.png)
+![Picture 2](2.png)
