@@ -13,4 +13,4 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ![Data pt2](Dataset Proj 0929 (1).png)
 ## The Rivalry
 
-src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4x8TnJKyVDHwbwJiDUInDD_o4rDDMgs6GqSIJ3ptL8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4x8TnJKyVDHwbwJiDUInDD_o4rDDMgs6GqSIJ3ptL8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
