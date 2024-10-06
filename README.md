@@ -14,3 +14,7 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ## The Rivalry
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4x8TnJKyVDHwbwJiDUInDD_o4rDDMgs6GqSIJ3ptL8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## The Rise of the Braves in the 2020s
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QjP3RRqdV4oxMCerLUEGPEL07RlVxG-GzKb1_CF1MUk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
