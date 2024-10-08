@@ -8,7 +8,7 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ![Full Lehigh Demographic Statistic Sheet](https://data.lehigh.edu/university-profile#:~:text=Lehigh%20University%20Profile%3A-,Fall%202024,-Fall%202023)
 ![Infographic pic](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/Lehigh%20University%20Admission%20Demographics%20(1).jpg) 
 ### NFL Player Birthplace Dataset
-![Original Link to Data](https://www.maxpreps.com/news/MII7xF0_6ESRnaewgE616g/2024-nfl-week-1-rosters-texas-high-schools-lead-state-by-state-breakdown-with-184-former-players-in-the-league.htm) 
+This dataset is a look at the rankings of the top states in America when it comes to having players drafted into the NFL. The top 15 states were selected, and liseted in order from least to greatest. There are currently 1,696 players in the NFL, and this list makes up 1,230 of those players. This data comes from [MaxPreps](https://www.maxpreps.com/news/MII7xF0_6ESRnaewgE616g/2024-nfl-week-1-rosters-texas-high-schools-lead-state-by-state-breakdown-with-184-former-players-in-the-league.htm)
 ![Data pt1](Dataset Proj 0929.png)
 ![Data pt2](Dataset Proj 0929 (1).png)
 ## The Rivalry
