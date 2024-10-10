@@ -22,3 +22,4 @@ This dataset is a look at the rankings of the top states in America when it come
 
 ## Lehigh University Student Profile Bar Chart
 In class activity of student population by college, made with ChartBuilder. Information recieved from [Lehigh University Office of Instutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+![Student Profile Chart](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/2024_Lehigh_Students_Profile__Percentage_chartbuilder.png)
