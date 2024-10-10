@@ -19,3 +19,6 @@ This dataset is a look at the rankings of the top states in America when it come
 ## The Rise of the Braves in the 2020s
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QjP3RRqdV4oxMCerLUEGPEL07RlVxG-GzKb1_CF1MUk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Lehigh University Student Profile Bar Chart
+In class activity of student population by college, made with ChartBuilder. Information recieved from [Lehigh University Office of Instutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
