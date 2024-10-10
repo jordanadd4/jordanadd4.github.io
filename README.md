@@ -5,7 +5,7 @@ I am a student-athlete at Lehigh University, a senior football player majoring i
 ![podcast pic](DSC07761.JPEG)
 ![FB PIC](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/IMG_4706%202.JPG?raw=true)
 ### Infographic of Lehigh Location Demographic 
-![Full Lehigh Demographic Statistic Sheet](https://data.lehigh.edu/university-profile#:~:text=Lehigh%20University%20Profile%3A-,Fall%202024,-Fall%202023)
+An infographic of the population demographic of Lehigh University. This [Full Lehigh Demographic Statistic Sheet](https://data.lehigh.edu/university-profile#:~:text=Lehigh%20University%20Profile%3A-,Fall%202024,-Fall%202023) discusses the diffreernt percentages of Lehigh students seperated by race and ethnicity. 
 ![Infographic pic](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/Lehigh%20University%20Admission%20Demographics%20(1).jpg) 
 
 ### NFL Player Birthplace Dataset
