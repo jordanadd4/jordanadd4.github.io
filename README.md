@@ -18,6 +18,7 @@ This dataset is a look at the rankings of the top states in America when it come
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1k4x8TnJKyVDHwbwJiDUInDD_o4rDDMgs6GqSIJ3ptL8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## The Rise of the Braves in the 2020s
+Timeline of the Atlanta Braves baseball team from 2013-2024. This timeline goes through the fall and then rise of the franchise into the 2020, including their 2021 World Series Championship. This info was acquired from the [MLB's Postseason History](https://www.mlb.com/braves/history/postseason-results)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QjP3RRqdV4oxMCerLUEGPEL07RlVxG-GzKb1_CF1MUk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
