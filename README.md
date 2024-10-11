@@ -28,3 +28,4 @@ In class activity of student population by college, made with ChartBuilder. Info
 
 ## Percentages of African-American Representation in the NBA in 2023
 A graph made getting a percentage of every African-American person's role in the NBA. This graph shows out of 100%, what percentage of African-American people make up this role. This data was acquired from [Statista](https://www.statista.com/statistics/1154720/nba-ethnic-diversity/)
+![African-American in NBA Representation Chart](Share_of_African_Americans_in_the_NBA_in_2023,_By_Role_Percentage_chartbuilder.png)
