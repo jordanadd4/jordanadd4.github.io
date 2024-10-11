@@ -25,3 +25,6 @@ Timeline of the Atlanta Braves baseball team from 2013-2024. This timeline goes 
 ## Lehigh University Student Profile Bar Chart
 In class activity of student population by college, made with ChartBuilder. Information recieved from [Lehigh University Office of Instutional Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
 ![Student Profile Chart](https://github.com/jordanadd4/jordanadd4.github.io/blob/main/2024_Lehigh_Students_Profile__Percentage_chartbuilder.png)
+
+## Percentages of African-American Representation in the NBA in 2023
+A graph made getting a percentage of every African-American person's role in the NBA. This graph shows out of 100%, what percentage of African-American people make up this role. This data was acquired from [Statista](https://www.statista.com/statistics/1154720/nba-ethnic-diversity/)
