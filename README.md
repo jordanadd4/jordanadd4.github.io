@@ -33,4 +33,4 @@ A graph made getting a percentage of every African-American person's role in the
 # Top 2019 Cycling Cities
 In class startup to work on Google Maps of the top cycling cities in the world in 2019 via The Wired Magazine
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L_0O5FqlL0DWx9By7eh7w1WIS5qZaz8&ehbc=2E312F" width="640" height="480"></iframe> 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L_0O5FqlL0DWx9By7eh7w1WIS5qZaz8&ehbc=2E312F" width="640" height="480"></iframe>
